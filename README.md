@@ -1,0 +1,5 @@
+# ArduinoMotorTemplate
+
+モーターをFF+PI制御するサンプルプログラム
+CytronEncoder2は2輪
+CytronEncoder3は3輪のオムニホイール用
